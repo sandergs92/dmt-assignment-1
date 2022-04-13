@@ -1,0 +1,4 @@
+{
+    "jupyter.maxOutputSize": 20000,
+    "notebook.output.textLineLimit": 500
+}
